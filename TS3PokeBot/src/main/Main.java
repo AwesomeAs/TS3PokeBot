@@ -17,7 +17,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		final TS3Config config = new TS3Config();
-		config.setHost("ts.wow-ggm.dk:9002");
+		config.setHost("46.32.39.140");
 		config.setDebugLevel(Level.ALL);
 
 		final TS3Query query = new TS3Query(config);
