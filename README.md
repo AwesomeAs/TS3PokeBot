@@ -8,6 +8,8 @@ Adjustable variables in the program
 | PORT          | The server port we connect to |
 | BOTNAME       | The username for our bot. |
 | POKEMSG       | The message to be poked |
+
+-test-
 | TARGETID      | Our target client's ID. Use TARGETNAME if you do not know the ID. |
 | TARGETNAME    | Setting this to anything other than null will update TARGETID to the desired ID if found. |
 | POKEAMOUNT    | Extra: Let the bot poke MULTIPLE times! Wow! |
